@@ -9,7 +9,7 @@ You can run these tutorials either in **Your Own Laptop** or in **Google Colab**
 ### · Use your own laptop
 
 These tutorials are coded in Jupyter notebooks with Python language. 
-Jupyter is included in the Anaconda set of programs, so we recommend downloading 
+Jupyter is included in the Anaconda environment, so we recommend downloading 
 and install [Anaconda](https://www.anaconda.com/products/individual).
 
 #### Extra dependencies
