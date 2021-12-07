@@ -1,5 +1,6 @@
-# deeplearning_course
-Set of Jupyter notebooks to teach and learn deep learning for physics.
+# Hands on Machine Learning on Classical and Quantum data course
+
+Set of Jupyter notebooks to teach and learn deep learning for physics and photonics.
 
 ## Instructions
 
