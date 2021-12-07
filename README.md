@@ -46,11 +46,11 @@ you just need to go to that especific tutorial and
 click on the `Run in Google Colab` link on top of the file.
 That's it!
 
-Pros:
+#### Pros:
 - All is ready to run there from the beginning.
 - You have one GPU (Tesla4) to get faster.
 
-Cons: 
+#### Cons: 
 - You need a Google account to run it.
 - Only one tutorial can run at once.
 - You need internet conection.
