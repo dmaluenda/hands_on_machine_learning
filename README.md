@@ -8,8 +8,8 @@ You can run these tutorials either in **Your Own Laptop** or in **Google Colab**
 
 ### · Use your own laptop
 
-These tutorials are coded in Jupyter notebooks with Python lenguage. 
-Jupyter is included in the Anaconda set of programs, so we recommend to download 
+These tutorials are coded in Jupyter notebooks with Python language. 
+Jupyter is included in the Anaconda set of programs, so we recommend downloading 
 and install [Anaconda](https://www.anaconda.com/products/individual).
 
 #### Extra dependencies
@@ -20,7 +20,7 @@ and install [Anaconda](https://www.anaconda.com/products/individual).
 #### Run tutorials
 
 Download the tutorials you want to run (any of those files ended with `.ipynb`)
-by means of the `download link` on top of every notbook.
+by means of the `download link` on top of every notebook.
 Probably, you should `[RightClick]+SaveAs` to download the content in a 
 certain file. Make sure that it ends with `.ipynb`.
 
@@ -28,21 +28,21 @@ We recommend to work in a specific folder for all the tutorials.
 You can get all files at once by cloning this GitHub repository
 (for that, `git` should be installed on you computer).
 
-Then, open Anaconda and launch the Jupyter Notbooks App from the Anaconda browser.
+Then, open Anaconda and launch the Jupyter Notebooks App from the Anaconda browser.
 A webpage should be opened in your internet browser with a kind of files browser.
-Go where the tutorials are an click on one of them. Now, the tutorial is opened 
+Go where the tutorials are and click on one of them. Now, the tutorial is opened 
 in a new tab. You can **edit** (`[DoubleClick]` or `[Enter]`) and  **run** (`[Shift]+[Enter]`) 
 any cell in the Notebook.
 
 Check the 
 [Jupyter Documentation](https://jupyter-notebook.readthedocs.io/en/stable/notebook.html#notebook-user-interface)
-for a detailed information.
+for detailed information.
 
 
 ### · Use Google Colab
 
 To run in Google Colab any tutorial on this repository, 
-you just need to go to that especific tutorial and 
+you just need to go to that specific tutorial and 
 click on the `Run in Google Colab` link on top of the file.
 That's it!
 
@@ -53,4 +53,4 @@ That's it!
 #### Cons: 
 - You need a Google account to run it.
 - Only one tutorial can run at once.
-- You need internet conection.
+- You need internet connection.
