@@ -20,8 +20,8 @@ and install [Anaconda](https://www.anaconda.com/products/individual).
 
 Download the tutorials you want to run (any of those files ended with `.ipynb`)
 by means of the `download link` on top of every notbook.
-Probably, you should copy all content and paste it to an empty file.
-Name that new file as you want, but it must end as `.ipynb`.
+Probably, you should `[RightClick]+SaveAs` to download the content in a 
+certain file. Make sure that it ends with `.ipynb`.
 
 We recommend to work in a specific folder for all the tutorials.
 You can get all files at once by cloning this GitHub repository
