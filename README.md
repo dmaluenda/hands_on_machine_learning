@@ -1,4 +1,4 @@
-# Hands on Machine Learning (Course of Master in Photonics [UPC+UB+UAB+ICFO])
+# Hands on Machine Learning course of Master in Photonics [UPC+UB+UAB+ICFO]
 
 Set of Jupyter notebooks to teach and learn deep learning for physics and photonics.
 
