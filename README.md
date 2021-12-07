@@ -4,7 +4,7 @@ Set of Jupyter notebooks to teach and learn deep learning for physics and photon
 
 ## Instructions
 
-You can run these tutorials either in your own laptop or in Google Colab
+You can run these tutorials either in **Your Own Laptop** or in **Google Colab** see sections below.
 
 ### · Use your own laptop
 
