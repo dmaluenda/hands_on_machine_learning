@@ -4,13 +4,13 @@ Set of Jupyter notebooks to teach and learn deep learning for physics and photon
 
 ## Instructions
 
-You can run these tutorials either in **Your Own Laptop** or in **Google Colab** see sections below.
+You can run these tutorials either in **Your Own Laptop** or in **Google Colab**, see the two subsections below:
 
 ### · Use your own laptop
 
 These tutorials are coded in Jupyter notebooks with Python language. 
-Jupyter is included in the Anaconda set of programs, so we recommend downloading 
-and install [Anaconda](https://www.anaconda.com/products/individual).
+Jupyter is included in the Anaconda environment, so we recommend downloading 
+and installing [Anaconda](https://www.anaconda.com/products/individual).
 
 #### Extra dependencies
 
@@ -20,13 +20,15 @@ and install [Anaconda](https://www.anaconda.com/products/individual).
 #### Run tutorials
 
 Download the tutorials you want to run (any of those files ended with `.ipynb`)
-by means of the `download link` on top of every notebook.
+by means of the `Download notebook` button on top of every file.
 Probably, you should `[RightClick]+SaveAs` to download the content in a 
 certain file. Make sure that it ends with `.ipynb`.
 
 We recommend to work in a specific folder for all the tutorials.
 You can get all files at once by cloning this GitHub repository
 (for that, `git` should be installed on you computer).
+Also, you can download them from the 
+[course at UPC-Atenea](https://atenea.upc.edu/course/view.php?id=71605) intranet.
 
 Then, open Anaconda and launch the Jupyter Notebooks App from the Anaconda browser.
 A webpage should be opened in your internet browser with a kind of files browser.
@@ -43,14 +45,14 @@ for detailed information.
 
 To run in Google Colab any tutorial on this repository, 
 you just need to go to that specific tutorial and 
-click on the `Run in Google Colab` link on top of the file.
+click on the `Run in Google Colab` button on top of the file.
 That's it!
 
 #### Pros:
-- All is ready to run there from the beginning.
-- You have one GPU (Tesla4) to get faster.
+- All is ready to run there, from the very beginning.
+- You have one GPU (usually a Tesla4) to get faster.
 
 #### Cons: 
 - You need a Google account to run it.
 - Only one tutorial can run at once.
-- You need internet connection.
+- You need a quite good internet connection.
