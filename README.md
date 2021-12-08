@@ -12,9 +12,12 @@ These tutorials are coded in Jupyter notebooks with Python language.
 Jupyter is included in the Anaconda environment, so we recommend downloading 
 and installing [Anaconda](https://www.anaconda.com/products/individual).
 
-#### Extra dependencies
+#### Dependencies
 
-*fill this section*
+You can install the dependencies by running the
+[00_install_dependencies.ipynb](00_install_dependencies.ipynb)
+notebook. So, follow the next section below to run it as a demo, 
+and you will get ready for the all tutorials.
 
 
 #### Run tutorials
