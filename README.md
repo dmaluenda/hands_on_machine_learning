@@ -17,25 +17,25 @@ and installing [Anaconda](https://www.anaconda.com/products/individual).
 You can install the dependencies by running the
 [00_install_dependencies.ipynb](00_install_dependencies.ipynb)
 notebook. So, follow the next section below to run it as a demo, 
-and you will get ready for the all tutorials.
+and then you will get ready for the all tutorials.
 
 
 #### Run tutorials
 
-Download the tutorials you want to run (any of those files ended with `.ipynb`)
-by means of the `Download notebook` button on top of every file.
+Download the tutorials you want to run (any of those files on the list above ended with `.ipynb`)
+by means of entering and click the `Download notebook` button on top of every file.
 Probably, you should `[RightClick]+SaveAs` to download the content in a 
 certain file. Make sure that it ends with `.ipynb`.
 
-We recommend to work in a specific folder for all the tutorials.
+We recommend to work in a specific folder for all tutorials.
 You can get all files at once by cloning this GitHub repository
 (for that, `git` should be installed on you computer).
 Also, you can download them from the 
-[course at UPC-Atenea](https://atenea.upc.edu/course/view.php?id=71605) intranet.
+[course web at UPC-Atenea](https://atenea.upc.edu/course/view.php?id=71605) intranet.
 
-Then, open Anaconda and launch the Jupyter Notebooks App from the Anaconda browser.
-A webpage should be opened in your internet browser with a kind of files browser.
-Go where the tutorials are and click on one of them. Now, the tutorial is opened 
+Then, open Anaconda and launch the Jupyter Notebooks App from the Anaconda Navigator.
+A webpage should be opened in your internet browser with a kind of a files browser.
+Go where the tutorials are located and click on one of them. Now, the tutorial should be opened 
 in a new tab. You can **edit** (`[DoubleClick]` or `[Enter]`) and  **run** (`[Shift]+[Enter]`) 
 any cell in the Notebook.
 
@@ -46,16 +46,16 @@ for detailed information.
 
 ### · Use Google Colab
 
-To run in Google Colab any tutorial on this repository, 
-you just need to go to that specific tutorial and 
+To run any tutorial on this repository in Google Colab, 
+you just need to go in to that specific tutorial and 
 click on the `Run in Google Colab` button on top of the file.
 That's it!
 
-#### Pros:
+#### Google Colab Pros:
 - All is ready to run there, from the very beginning.
 - You have one GPU (usually a Tesla4) to get faster.
 
-#### Cons: 
+#### Google Colab Cons: 
 - You need a Google account to run it.
 - Only one tutorial can run at once.
 - You need a quite good internet connection.
