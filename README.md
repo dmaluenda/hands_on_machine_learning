@@ -25,7 +25,8 @@ and then you will get ready for the all tutorials.
 Download the tutorials from the 
 [course web at UPC-Atenea](https://atenea.upc.edu/course/view.php?id=71605) intranet.
 
-> Alternativelly, you can download the file want from this github repository (any of those files on the list above ended with `.ipynb`)
+> Alternativelly, you can download the file you want from this github repository
+(those files on the list above ended with `.ipynb`)
 by means of entering and click the `Download notebook` button on top of every file.
 Probably, you should `[RightClick]+SaveAs` to download the content in a 
 certain file. Make sure that it ends with `.ipynb`.
