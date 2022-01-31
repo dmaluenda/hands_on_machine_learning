@@ -22,16 +22,17 @@ and then you will get ready for the all tutorials.
 
 #### Run tutorials
 
-Download the tutorials you want to run (any of those files on the list above ended with `.ipynb`)
+Download the tutorials from the 
+[course web at UPC-Atenea](https://atenea.upc.edu/course/view.php?id=71605) intranet.
+
+Alternativelly, you can download the file want from this github repository (any of those files on the list above ended with `.ipynb`)
 by means of entering and click the `Download notebook` button on top of every file.
 Probably, you should `[RightClick]+SaveAs` to download the content in a 
 certain file. Make sure that it ends with `.ipynb`.
+Take into a count that if that file is not in the UPC_Atenea yet, 
+it is probably not in its final version.
 
 We recommend to work in a specific folder for all tutorials.
-You can get all files at once by cloning this GitHub repository
-(for that, `git` should be installed on you computer).
-Also, you can download them from the 
-[course web at UPC-Atenea](https://atenea.upc.edu/course/view.php?id=71605) intranet.
 
 Then, open Anaconda and launch the Jupyter Notebooks App from the Anaconda Navigator.
 A webpage should be opened in your internet browser with a kind of a files browser.
