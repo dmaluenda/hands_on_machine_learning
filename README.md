@@ -2,11 +2,11 @@
 
 Set of Jupyter notebooks to teach and learn deep learning for physics and photonics.
 
-## Instructions
+## Installation insructions
 
-You can run these tutorials either in **Your Own Laptop** or in **Google Colab**, see the two subsections below:
+You can run these tutorials either in **1. Your Own Laptop** or in **2. Google Colab**, see the two subsections below:
 
-### · Use your own laptop
+### 1. Using your own laptop
 
 These tutorials are coded in Jupyter notebooks with Python language. 
 Jupyter is included in the Anaconda environment, so we recommend downloading 
@@ -25,13 +25,14 @@ and then you will get ready for the all tutorials.
 Download the tutorials from the 
 [course web at UPC-Atenea](https://atenea.upc.edu/course/view.php?id=71605) intranet.
 
-> Alternativelly, you can download the file you want from this github repository
+<ins>Alternativelly</ins> , you can download the file you want from this github repository
 (those files on the list above ended with `.ipynb`)
 by means of entering and click the `Download notebook` button on top of every file.
 Probably, you should `[RightClick]+SaveAs` to download the content in a 
 certain file. Make sure that it ends with `.ipynb`.
-Take into a count that if that file is not in the UPC_Atenea yet, 
-it is probably not in its final version.
+
+> Take into a count that if that file is not in the UPC_Atenea yet, 
+it is probably not in its final version. Use only 'master' branch.
 
 We recommend to work in a specific folder for all tutorials.
 
@@ -46,7 +47,7 @@ Check the
 for detailed information.
 
 
-### · Use Google Colab
+### · 2. Using Google Colab
 
 To run any tutorial on this repository in Google Colab, 
 you just need to go in to that specific tutorial and 
@@ -60,4 +61,5 @@ That's it!
 #### Google Colab Cons: 
 - You need a Google account to run it.
 - Only one tutorial can run at once.
+- The code is not in your laptop, so you have to take care to save your changes.
 - You need a quite good internet connection.
