@@ -62,4 +62,4 @@ That's it!
 - You need a Google account to run it.
 - Only one tutorial can run at once.
 - The code is not in your laptop, so you have to take care to save your changes.
-- You need a quite good internet connection.
+- You need a quite stable internet connection.
