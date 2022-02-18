@@ -17,7 +17,7 @@ and installing [Anaconda](https://www.anaconda.com/products/individual).
 You can install the dependencies by running the
 [00_install_dependencies.ipynb](00_install_dependencies.ipynb)
 notebook. So, follow the next section below to run it as a demo, 
-and then you will get ready for the all tutorials.
+and then you will get ready for all tutorials.
 
 
 #### Run tutorials
