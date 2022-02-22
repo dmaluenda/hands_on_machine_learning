@@ -4,7 +4,7 @@ Set of Jupyter notebooks to teach and learn deep learning for physics and photon
 
 ## Installation insructions
 
-You can run these tutorials either in **1. Your Own Laptop** or in **2. Google Colab**, see the two subsections below:
+You can run these tutorials either in **1. Your Own Laptop** <ins>or</ins> in **2. Google Colab**, see the two subsections below:
 
 ### · 1 Using your own laptop
 
@@ -49,8 +49,8 @@ for detailed information.
 
 ### · 2 Using Google Colab
 
-To run any tutorial on this repository in Google Colab, 
-you just need to go in to that specific tutorial and 
+If you prefer don't to run these tutorials in your computer, you can run any tutorial on this repository in Google Colab. 
+You just need to go in to that specific tutorial and 
 click on the `Run in Google Colab` button on top of the file.
 That's it!
 
