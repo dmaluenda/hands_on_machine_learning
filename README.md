@@ -2,7 +2,7 @@
 
 Set of Jupyter notebooks to teach and learn deep learning for physics and photonics.
 
-## Installation insructions
+## Installation instructions
 
 You can run these tutorials either in **1. Your Own Laptop** <ins>or</ins> in **2. Google Colab**, see the two subsections below:
 
