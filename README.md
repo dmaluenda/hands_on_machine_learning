@@ -67,8 +67,8 @@ That's it!
 
 #### Google Colab Cons: 
 - You need a Google account to run it.
-- Only one notebook can run at once (without paying).
+- Only one notebook can run at once (in the free version).
 - The code is not in your laptop, so you have to take care to save your changes.
 - You need a quite stable internet connection.
 
-The last two are the most important cons.
+The last two are the most important cons, have them in mind.
