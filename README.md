@@ -30,17 +30,18 @@ Download the tutorials from the
 (those files on the list above ended with `.ipynb`)
 by means of entering and click the `Download notebook` button on top of every file.
 Probably, you should `[RightClick]+SaveAs` to download the content in a 
-certain file. Make sure that it ends with `.ipynb`.
+certain file. Make sure that it ends with the `.ipynb` extension.
 
 > Take into a count that if one file is in GitHub, but it is not in the UPC_Atenea yet, 
 it is probably not in its final version. **Use only 'master' branch**.
 
-We recommend to download and work in a specific folder in your computer for all tutorials.
+We recommend to download and work on all tutorial in a single specific directory of your computer.
 
 Then, open Anaconda and launch the Jupyter Notebooks App from the Anaconda Navigator.
 A webpage should be opened in your internet browser with a kind of file browser.
-Find in there that specific folder where the tutorials are located and click on one of them.
-Now, the tutorial should be opened in a new tab. You can **edit** (`[DoubleClick]` or `[Enter]`) and  **run** (`[Shift]+[Enter]`) 
+Find here that specific folder where the tutorials are located and click on one of them.
+Now, the tutorial should be opened in a new tab of your browser.
+You can **edit** (`[DoubleClick]` or `[Enter]`) and  **run** (`[Shift]+[Enter]`) 
 any cell in the Notebook.
 
 Check the 
@@ -53,7 +54,7 @@ for detailed information.
 If you prefer don't to run these tutorials in your own computer, 
 you can run any tutorial on this repository in Google Colab.
 
-Google Colab is a free service provided by Google that allows you to run Jupyter 
+Google Colab is a free service provided by Google that allows anyone to run Jupyter 
 notebooks in the cloud. It is very easy to use, and it is a good option if you 
 don't want to install anything in your computer.
 
@@ -66,7 +67,7 @@ That's it!
 - You have one GPU (usually a Tesla4) to get faster. (Not needed for this course)
 
 #### Google Colab Cons: 
-- You need a Google account to run it.
+- You need a Google account to use it.
 - Only one notebook can run at once (in the free version).
 - The code is not in your laptop, so you have to take care to save your changes.
 - You need a quite stable internet connection.
