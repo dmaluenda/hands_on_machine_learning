@@ -6,6 +6,12 @@ __pycache__/
 # C extensions
 *.so
 
+# Hands on bkups
+extra
+remove
+ml-20m*
+*SOLVED*
+
 # Distribution / packaging
 .Python
 build/
@@ -130,8 +136,3 @@ dmypy.json
 
 # PyCharm
 .idea
-
-# Remove this !!!!
-ml-20m*
-
-ExerciceSolved*
