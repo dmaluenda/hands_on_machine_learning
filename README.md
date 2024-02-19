@@ -11,7 +11,7 @@ You can run these tutorials either in **1. Your Own Laptop** <ins>or</ins> in
 
 These tutorials are coded in Jupyter notebooks with Python language. 
 Jupyter is included in the Anaconda environment, so we strongly recommend downloading 
-and installing [Anaconda](https://www.anaconda.com/products/individual).
+and installing [Anaconda](https://www.anaconda.com/products/individual). Open Anaconda on your computer and install Jupyter.
 
 #### Dependencies
 
@@ -69,6 +69,7 @@ That's it!
 #### Google Colab Cons: 
 - You need a Google account to use it.
 - Only one notebook can run at once (in the free version).
+- Probably, you cannot see the equation numbers (usful for the second tutorial).
 - The code is not in your laptop, so you have to take care to save your changes.
 - You need a quite stable internet connection.
 
