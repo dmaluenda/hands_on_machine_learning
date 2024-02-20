@@ -16,6 +16,8 @@ Open Anaconda on your computer and install Jupyter Notebook from the Anaconda Na
 Also install the Powershell prompt, if it is not already
 (it is not needed, but it can be useful in some situations).
 
+![Screenshoot of the Jupyter installation button](https://github.com/dmaluenda/hands_on_machine_learning/blob/master/resources/jupyter_install.png)
+
 #### Dependencies
 
 You can install the dependencies by running the
