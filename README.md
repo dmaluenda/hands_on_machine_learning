@@ -7,7 +7,7 @@ Set of Jupyter notebooks to learn deep learning for physics and photonics.
 You can run these tutorials either in **1. Your Own Laptop** <ins>or</ins> in 
 **2. Google Colab**, see the two subsections below:
 
-### · 1 Using your own laptop
+### · 1. Using your own laptop
 
 These tutorials are coded in Jupyter notebooks with Python language. 
 Jupyter is included in the Anaconda environment, so we strongly recommend downloading 
@@ -55,7 +55,7 @@ Check the
 for detailed information.
 
 
-### · 2 Using Google Colab
+### · 2. Using Google Colab
 
 If you prefer do not run these tutorials in your own computer, 
 you can run any tutorial on this repository in Google Colab (excepting for the 00_installing_dependencies.ipynb).
