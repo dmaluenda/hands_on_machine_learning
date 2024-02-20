@@ -46,7 +46,7 @@ We recommend to download and work on all tutorial in a single specific directory
 Then, open Anaconda and launch the Jupyter Notebooks App from the Anaconda Navigator.
 A webpage should be opened in your internet browser with a kind of file browser.
 Find here that specific folder where the tutorials are located and click on one of them.
-Now, the tutorial should be opened in a new tab of your browser.
+Now, the tutorial should be opened in a new tab of your web browser.
 You can **edit** (`[DoubleClick]` or `[Enter]`) and  **run** (`[Shift]+[Enter]`) 
 any cell in the Notebook.
 
