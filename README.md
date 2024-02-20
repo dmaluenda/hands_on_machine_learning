@@ -11,7 +11,10 @@ You can run these tutorials either in **1. Your Own Laptop** <ins>or</ins> in
 
 These tutorials are coded in Jupyter notebooks with Python language. 
 Jupyter is included in the Anaconda environment, so we strongly recommend downloading 
-and installing [Anaconda](https://www.anaconda.com/products/individual). Open Anaconda on your computer and install Jupyter.
+and installing [Anaconda](https://www.anaconda.com/products/individual).
+Open Anaconda on your computer and install Jupyter Notebook from the Anaconda Navigator.
+Also install the Powershell prompt, if it is not already
+(it is not needed, but it can be useful in some situations).
 
 #### Dependencies
 
@@ -24,7 +27,7 @@ and then you will be ready for all the rest tutorials.
 #### Run tutorials
 
 Download the tutorials from the 
-[course web at UPC-Atenea](https://atenea.upc.edu/course/view.php?id=71605) intranet.
+[course web at UPC-Atenea](https://atenea.upc.edu/course/view.php?id=85709) intranet.
 
 <ins>Alternativelly</ins> , you can download the file you want from this GitHub repository
 (those files on the list above ended with `.ipynb`)
