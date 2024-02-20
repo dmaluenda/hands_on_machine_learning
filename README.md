@@ -34,6 +34,7 @@ certain file. Make sure that it ends with the `.ipynb` extension.
 
 > Take into a count that if one file is in GitHub, but it is not in the UPC_Atenea yet, 
 it is probably not in its final version. **Use only 'master' branch**.
+If you do not know what does it mean, forget this note.
 
 We recommend to download and work on all tutorial in a single specific directory of your computer.
 
