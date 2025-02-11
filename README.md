@@ -13,6 +13,8 @@ These tutorials are coded in Jupyter notebooks with Python language.
 Jupyter is included in the Anaconda environment, so we strongly recommend downloading 
 and installing [Anaconda](https://www.anaconda.com/products/individual).
 
+Once installed, open the Anaconda Navigator program.
+
 #### Create a new environment (optional)
 
 If you are new in Anaconda, probably you will not need different development environs.
@@ -22,16 +24,18 @@ For instance, you can create a specific conda environ for this course.
 A conda environ is a indepentent and isolated eviroment where you can install any python package 
 without exposing the system enviroment.
 
-To create a new conda environ, go to the "Environments" tab in the left pane on the Anaconda Navigator and click on `+ Create`
+To create a new conda environ, go to the "Environments" tab in the left pane on the Anaconda Navigator and click on `+ Create`.
+Finally, type a name and select Python as a code lenguage. 
 
 ![Screenshoot of the Conda Environ create](https://github.com/dmaluenda/hands_on_machine_learning/blob/master/resources/conda_environs.png)
 
+#### Installing Jupyter and other basics
 
-#### Installing Jupyter
-
-Open Anaconda on your computer and install Jupyter Notebook from the Anaconda Navigator.
+You should install Jupyter Notebook from the Anaconda Navigator, in Home tab on the left pane. You can check the activated environ on the top of the pane.
 
 ![Screenshoot of the Jupyter installation button](https://github.com/dmaluenda/hands_on_machine_learning/blob/master/resources/jupyter_install.png)
+
+Then, launch jupyter.
 
 #### Dependencies
 
