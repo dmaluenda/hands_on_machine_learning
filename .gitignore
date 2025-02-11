@@ -11,6 +11,8 @@ extra
 remove
 ml-20m*
 *SOLVED*
+bkup/*
+*.pdf
 
 # Distribution / packaging
 .Python
