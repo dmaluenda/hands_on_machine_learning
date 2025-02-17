@@ -25,7 +25,7 @@ A conda environ is a indepentent and isolated eviroment where you can install an
 without exposing the system enviroment.
 
 To create a new conda environ, go to the "Environments" tab in the left pane on the Anaconda Navigator and click on `+ Create`.
-Finally, type a name and select Python as a code lenguage. 
+Finally, type a name and select Python as a code lenguage. **IMPORTANT**: Python version have to be between 3.9 and 3.12!
 
 ![Screenshoot of the Conda Environ create](https://github.com/dmaluenda/hands_on_machine_learning/blob/master/resources/conda_environs.png)
 
