@@ -48,7 +48,7 @@ and then you will be ready for all the rest tutorials.
 #### Run tutorials
 
 Download the tutorials from the 
-[course web at UPC-Atenea](https://atenea.upc.edu/course/view.php?id=85709) intranet.
+[course web at UPC-Atenea](https://atenea.upc.edu/course/view.php?id=95161#section-3) intranet.
 
 <ins>Alternativelly</ins> , you can download the file you want from this GitHub repository
 (those files on the list above ended with `.ipynb`)
@@ -94,8 +94,7 @@ That's all!
 #### Google Colab Cons: 
 - You need a Google account to use it.
 - Only one notebook can run at once (in the free version).
-- Probably, you cannot see the equation numbers (useful specially in the second tutorial).
-- The code is not in your laptop, so you have to take care to save your changes.
+- <ins>The code is not in your laptop, so you have to take care to save your changes</ins>.
 - You need a quite stable internet connection.
 
 The last two are the most important cons, have them in mind.
