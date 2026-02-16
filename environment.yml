@@ -1,0 +1,22 @@
+name: hands-on-ML
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  - python=3.10
+  - pip
+  - numpy=1.26
+  - scipy
+  - pandas
+  - matplotlib
+  - scikit-learn
+  - jupyterlab
+  - ipykernel
+  - tqdm
+  - gymnasium
+  - seaborn
+  - ipywidgets
+  - pip:
+      - tensorflow==2.16.*
+      - keras
