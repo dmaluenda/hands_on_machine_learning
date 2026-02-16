@@ -9,33 +9,229 @@ You can run these tutorials either in **1. Your Own Laptop** <ins>or</ins> in
 
 ### · 1. Using your own laptop
 
-These tutorials are coded in Jupyter notebooks with Python language. 
-Jupyter is included in the Anaconda environment, so we strongly recommend downloading 
-and installing [Anaconda](https://www.anaconda.com/products/individual).
+This course requires a working Conda environment and basic use of the terminal (command line) is a supplementary useful knowledge.
 
-Once installed, open the Anaconda Navigator program.
+---
 
-#### Create a new environment (optional)
+## 1. Install Conda (Miniconda Recommended)
 
-If you are new in Anaconda, probably you will not need different development environs.
-However, it is a good practise to have different conda environs to different porpouses.
-For instance, you can create a specific conda environ for this course.
+We recommend installing **Miniconda** instead of the full Anaconda distribution,
+because Miniconda is lighter and more stable.
+However, you can use the full Anaconda if you prefer.
 
-A conda environ is a indepentent and isolated eviroment where you can install any python package 
-without exposing the system enviroment.
+### Step 1: Download Miniconda
 
-To create a new conda environ, go to the "Environments" tab in the left pane on the Anaconda Navigator and click on `+ Create`.
-Finally, type a name and select Python as a code lenguage. **IMPORTANT**: Python version have to be between 3.9 and 3.12!
+Go to:
 
-![Screenshoot of the Conda Environ create](https://github.com/dmaluenda/hands_on_machine_learning/blob/master/resources/conda_environs.png)
+https://docs.conda.io/en/latest/miniconda.html
 
-#### Installing Jupyter and other basics
+Download:
 
-You should install Jupyter Notebook from the Anaconda Navigator, in Home tab on the left pane. You can check the activated environ on the top of the pane.
+- Miniconda3
+- Python 3.10 or 3.11 version
+- 64-bit installer for your operating system
 
-![Screenshoot of the Jupyter installation button](https://github.com/dmaluenda/hands_on_machine_learning/blob/master/resources/jupyter_install.png)
+On Windows: download the `.exe` installer.
 
-Then, launch jupyter.
+### Step 2: Install
+
+During installation:
+
+- Install for **Just Me**
+- Use the default installation path
+- Do NOT manually add to PATH (leave default settings)
+- Allow the installer to initialize Conda
+
+
+## 2. Open the Terminal
+
+You must use a terminal where Conda works correctly.
+
+### On Windows
+
+Press: Windows key → type "Anaconda Prompt"
+
+Open **Anaconda Prompt**.
+
+You may use PowerShell only if Conda works there.
+
+### On macOS / Linux
+
+Open the standard **Terminal** application.
+
+---
+
+## 3. Verify That Conda Works
+
+In the terminal, type:
+
+```bash
+conda --version
+```
+
+You should see something like:
+
+```
+conda 24.x.x
+```
+
+If you see an error such as:
+
+```
+conda is not recognized
+```
+
+Close the terminal and open Anaconda Prompt instead, or restart your computer.
+
+---
+
+## 4. Understand the Prompt
+
+When Conda is active, your terminal should look like:
+
+```
+(base) C:\Users\YourName>
+```
+
+The `(base)` means Conda is active.
+
+If you do NOT see `(base)`, run:
+
+```bash
+conda activate base
+```
+
+---
+
+## 5. Create the Course Environment
+
+Run the following command exactly as written:
+
+```bash
+conda env create -f https://raw.githubusercontent.com/dmaluenda/hands_on_machine_learning/master/environment.yml
+```
+
+This will:
+
+- Download the environment configuration from GitHub
+- Install Python 3.10
+- Install TensorFlow
+- Install JupyterLab
+- Install all required packages
+
+This step may take 5–15 minutes. Do not interrupt it.
+
+---
+
+## 6. Activate the Course Environment
+
+After installation finishes, activate it:
+
+```bash
+conda activate hands-on-ML
+```
+
+Your terminal should now look like:
+
+```
+(hands-on-ML) C:\Users\YourName>
+```
+
+If you still see `(base)`, the environment is not activated.
+
+---
+
+## 7. Launch Jupyter Lab
+
+Run:
+
+```bash
+jupyter lab
+```
+
+Your browser should open automatically.
+
+If it does not open:
+
+- Copy the URL shown in the terminal
+- Paste it into your browser manually
+
+---
+
+## 8. Test That Everything Works
+
+Create a new notebook and run:
+
+```python
+import tensorflow as tf
+import numpy as np
+
+print("TensorFlow:", tf.__version__)
+print("NumPy:", np.__version__)
+```
+
+If versions are printed and no errors appear, your setup is correct.
+
+---
+
+## Every Time You Work on This Course
+
+You must repeat these steps:
+
+1. Open terminal  
+2. Activate the environment  
+
+```bash
+conda activate hands-on-ML
+```
+
+3. Start Jupyter  
+
+```bash
+jupyter lab
+```
+
+If you forget to activate the environment, things will not work.
+
+---
+
+## Common Problems
+
+### "conda is not recognized"
+
+Use Anaconda Prompt or reinstall Miniconda.
+
+### Installation is slow
+
+If you are:
+
+- Inside a OneDrive folder
+- On a university network
+- Behind antivirus software
+
+Installation may be slower. This is normal.
+
+### "jupyter command not found"
+
+Make sure you activated the environment first:
+
+```bash
+conda activate hands-on-ML
+```
+
+---
+
+## Why We Use the Terminal
+
+Using the terminal is an essential professional skill in:
+
+- Machine Learning
+- Research
+- Data Science
+- Industry
+
+You are not just installing software — you are learning how real-world ML environments are managed.
+
 
 #### Dependencies
 
@@ -102,3 +298,4 @@ The last two are the most important cons, have them in mind.
 Check also the 
 [**Jupyter Documentation**](https://jupyter-notebook.readthedocs.io/en/stable/notebook.html#notebook-user-interface)
 for detailed information.
+
