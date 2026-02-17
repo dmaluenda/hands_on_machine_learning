@@ -16,7 +16,10 @@ Using the terminal is an essential professional skill in Machine Learning, resea
 You are not merely installing software; you are learning how real-world machine learning environments are structured and managed.
 
 
-#### Install Conda (Miniconda Recommended), create a specific ML environment, and activate it
+#### Install Conda (Miniconda Recommended)
+
+If you already have any version of Conda installed on your computer, you can proceed directly to [the next preparation point](#using-the-command-line).
+If you are unsure, try it anyway. If it does not work, you can return to this section.
 
 We recommend installing **Miniconda** instead of the full Anaconda distribution,
 because Miniconda is lighter and more stable.
@@ -24,14 +27,18 @@ However, you can use the full Anaconda if you prefer.
 
 * <ins>Download Miniconda</ins>:
 
-  From https://docs.conda.io/en/latest/miniconda.html
-  download Miniconda3 (Python 3.10 or 3.11),
-  64-bit installer for your operating system.
+  From [https://docs.conda.io/en/latest/miniconda.html](https://repo.anaconda.com/miniconda/)
+  download the Miniconda3 that suits for your operating system, choose just from the sevent first options
+  (latest versions for Windows, MacOs and Linux).
+
+  > If you have a regular Windows, just take the first one.
 
 * <ins>Install Miniconda</ins>:
 
   During installation: Use the default installation path, do NOT manually add to PATH (leave default settings),
   and allow the installer to initialize Conda.
+
+#### Using the command-line
 
 * <ins>Select an appropriate terminal</ins>:
 
@@ -47,8 +54,9 @@ However, you can use the full Anaconda if you prefer.
   conda --version
   ```
 
-  You should see something like `conda 24.x.x`. If instead you see an error such as `conda is not recognized`,
-  close the terminal and open Anaconda Prompt instead, or restart your computer.
+  You should see something like `conda 24.x.x`. If you see an error such as `conda is not recognized`,
+  close the terminal and open again the Anaconda Prompt, or restart your computer.
+  If it still failing, try to re-install conda.
 
 * <ins>Understand the Prompt</ins>:
 
@@ -63,6 +71,8 @@ However, you can use the full Anaconda if you prefer.
   ```bash
   conda activate base
   ```
+
+#### Creating and activating a specific ML environment 
 
 * <ins>Create the Course Environment</ins>:
 
@@ -123,11 +133,12 @@ and avoiding working in the `Downloads` directory.
 
 1. Open terminal: Windows key → Anaconda Prompt
 2. Activate the environment:  `conda activate hands-on-ML`
-3. Start Jupyter: `jupyter notebook .`
+3. Start Jupyter: `jupyter lab`
 
 A webpage should open in your internet browser with the Jupyter Lab interface.
 Locate the specific folder where the tutorials are stored and click on one of them.
-The tutorial should open in a new tab of your web browser.
+The tutorial should open in a new tab within the right pane.
+
 You can **edit** (`[DoubleClick]` or `[Enter]`) and **run** (`[Shift] + [Enter]`) 
 any cell in the Notebook.
 
@@ -147,8 +158,8 @@ notebooks in the cloud. It is very easy to use and is a good option if you
 do not want to install anything on your computer, 
 nor learn how to manage conda environments and terminal commands.
 
-You just need to go to the specific tutorial (also from the PDF version) and 
-click on the `Run in Google Colab` button at the top of the file.
+You just need to go to the specific tutorial (find here above, that files.ipynb), and 
+click on the **`Run in Google Colab`** button at the top of the file.
 That's all!
 
 #### Google Colab Pros:
@@ -166,3 +177,14 @@ The last two points are the most important limitations and should be carefully c
 Check also the 
 [**Jupyter Documentation**](https://jupyter-notebook.readthedocs.io/en/stable/notebook.html#notebook-user-interface)
 for detailed information.
+
+
+
+
+
+
+
+
+
+
+
