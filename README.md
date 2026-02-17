@@ -24,9 +24,11 @@ However, you can use the full Anaconda if you prefer.
 
 * <ins>Download Miniconda</ins>:
 
-  From https://docs.conda.io/en/latest/miniconda.html
-  download Miniconda3 (Python 3.10 or 3.11),
-  64-bit installer for your operating system.
+  From [https://docs.conda.io/en/latest/miniconda.html](https://repo.anaconda.com/miniconda/)
+  download the Miniconda3 that suits for your operating system, choose just from the sevent first options
+  (latest versions for Windows, MacOs and Linux).
+
+  > If you have a regular Windows, just take the first one.
 
 * <ins>Install Miniconda</ins>:
 
@@ -167,5 +169,6 @@ The last two points are the most important limitations and should be carefully c
 Check also the 
 [**Jupyter Documentation**](https://jupyter-notebook.readthedocs.io/en/stable/notebook.html#notebook-user-interface)
 for detailed information.
+
 
 
