@@ -19,7 +19,7 @@ You are not merely installing software; you are learning how real-world machine 
 #### Install Conda (Miniconda Recommended)
 
 If you already has any version of conda on your computer, 
-go directly to [the next preparation point](using-the-command-line).
+go directly to [the next preparation point](#using-the-command-line).
 
 We recommend installing **Miniconda** instead of the full Anaconda distribution,
 because Miniconda is lighter and more stable.
@@ -176,6 +176,7 @@ The last two points are the most important limitations and should be carefully c
 Check also the 
 [**Jupyter Documentation**](https://jupyter-notebook.readthedocs.io/en/stable/notebook.html#notebook-user-interface)
 for detailed information.
+
 
 
 
