@@ -12,8 +12,11 @@ dependencies:
   - matplotlib
   - scikit-learn
   - jupyterlab
+  - notebook
   - ipykernel
   - tqdm
+  - imageio
+  - requests
   - gymnasium
   - seaborn
   - ipywidgets
