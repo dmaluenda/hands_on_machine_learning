@@ -49,8 +49,8 @@ However, you can use the full Anaconda if you prefer.
   conda --version
   ```
 
-  You should see something like `conda 24.x.x`. If instead you see an error such as `conda is not recognized`,
-  close the terminal and open Anaconda Prompt instead, or restart your computer.
+  You should see something like `conda 24.x.x`. If you see an error such as `conda is not recognized`,
+  close the terminal and open again the Anaconda Prompt, or restart your computer.
 
 * <ins>Understand the Prompt</ins>:
 
@@ -169,6 +169,7 @@ The last two points are the most important limitations and should be carefully c
 Check also the 
 [**Jupyter Documentation**](https://jupyter-notebook.readthedocs.io/en/stable/notebook.html#notebook-user-interface)
 for detailed information.
+
 
 
 
