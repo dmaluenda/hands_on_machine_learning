@@ -16,7 +16,10 @@ Using the terminal is an essential professional skill in Machine Learning, resea
 You are not merely installing software; you are learning how real-world machine learning environments are structured and managed.
 
 
-#### Install Conda (Miniconda Recommended), create a specific ML environment, and activate it
+#### Install Conda (Miniconda Recommended)
+
+If you already has any version of conda on your computer, 
+go directly to [the next preparation point](using-the-command-line).
 
 We recommend installing **Miniconda** instead of the full Anaconda distribution,
 because Miniconda is lighter and more stable.
@@ -34,6 +37,8 @@ However, you can use the full Anaconda if you prefer.
 
   During installation: Use the default installation path, do NOT manually add to PATH (leave default settings),
   and allow the installer to initialize Conda.
+
+#### Using the command-line
 
 * <ins>Select an appropriate terminal</ins>:
 
@@ -65,6 +70,8 @@ However, you can use the full Anaconda if you prefer.
   ```bash
   conda activate base
   ```
+
+#### Creating and activating a specific ML environment 
 
 * <ins>Create the Course Environment</ins>:
 
@@ -169,6 +176,7 @@ The last two points are the most important limitations and should be carefully c
 Check also the 
 [**Jupyter Documentation**](https://jupyter-notebook.readthedocs.io/en/stable/notebook.html#notebook-user-interface)
 for detailed information.
+
 
 
 
