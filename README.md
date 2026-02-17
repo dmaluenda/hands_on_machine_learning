@@ -158,7 +158,7 @@ notebooks in the cloud. It is very easy to use and is a good option if you
 do not want to install anything on your computer, 
 nor learn how to manage conda environments and terminal commands.
 
-You just need to go to the specific tutorial (also from the PDF version) and 
+You just need to go to the specific tutorial (find here above, that files.ipynb), and 
 click on the `Run in Google Colab` button at the top of the file.
 That's all!
 
@@ -177,6 +177,7 @@ The last two points are the most important limitations and should be carefully c
 Check also the 
 [**Jupyter Documentation**](https://jupyter-notebook.readthedocs.io/en/stable/notebook.html#notebook-user-interface)
 for detailed information.
+
 
 
 
