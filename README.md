@@ -128,6 +128,7 @@ and avoiding working in the `Downloads` directory.
 A webpage should open in your internet browser with the Jupyter Lab interface.
 Locate the specific folder where the tutorials are stored and click on one of them.
 The tutorial should open in a new tab of your web browser.
+
 You can **edit** (`[DoubleClick]` or `[Enter]`) and **run** (`[Shift] + [Enter]`) 
 any cell in the Notebook.
 
@@ -166,3 +167,4 @@ The last two points are the most important limitations and should be carefully c
 Check also the 
 [**Jupyter Documentation**](https://jupyter-notebook.readthedocs.io/en/stable/notebook.html#notebook-user-interface)
 for detailed information.
+
