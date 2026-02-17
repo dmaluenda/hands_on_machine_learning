@@ -123,7 +123,7 @@ and avoiding working in the `Downloads` directory.
 
 1. Open terminal: Windows key → Anaconda Prompt
 2. Activate the environment:  `conda activate hands-on-ML`
-3. Start Jupyter: `jupyter notebook .`
+3. Start Jupyter: `jupyter lab`
 
 A webpage should open in your internet browser with the Jupyter Lab interface.
 Locate the specific folder where the tutorials are stored and click on one of them.
@@ -167,4 +167,5 @@ The last two points are the most important limitations and should be carefully c
 Check also the 
 [**Jupyter Documentation**](https://jupyter-notebook.readthedocs.io/en/stable/notebook.html#notebook-user-interface)
 for detailed information.
+
 
