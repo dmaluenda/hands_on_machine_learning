@@ -18,8 +18,8 @@ You are not merely installing software; you are learning how real-world machine 
 
 #### Install Conda (Miniconda Recommended)
 
-If you already has any version of conda on your computer, 
-go directly to [the next preparation point](#using-the-command-line).
+If you already has any version of conda on your computer
+(or even you are not sure), go directly to [the next preparation point](#using-the-command-line).
 
 We recommend installing **Miniconda** instead of the full Anaconda distribution,
 because Miniconda is lighter and more stable.
@@ -56,6 +56,7 @@ However, you can use the full Anaconda if you prefer.
 
   You should see something like `conda 24.x.x`. If you see an error such as `conda is not recognized`,
   close the terminal and open again the Anaconda Prompt, or restart your computer.
+  If it still failing, try to re-install conda.
 
 * <ins>Understand the Prompt</ins>:
 
@@ -176,6 +177,7 @@ The last two points are the most important limitations and should be carefully c
 Check also the 
 [**Jupyter Documentation**](https://jupyter-notebook.readthedocs.io/en/stable/notebook.html#notebook-user-interface)
 for detailed information.
+
 
 
 
